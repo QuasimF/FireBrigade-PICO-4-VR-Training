@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/GettingStarted.unity
+    guid: 02d5fd46e7e1b2a468ede736a1f09f39
+  - enabled: 1
+    path: Assets/Scenes/FireStationMenu.unity
+    guid: ef3c0e2a0dbf1d649930e170137931a3
+  - enabled: 1
+    path: Assets/Scenes/Level_1.unity
+    guid: 2090f1c275848784286957f76cd67219
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: c64ec863c4e416c4cbab8ecc4ef78766
+  m_configObjects:
+    Unity.XR.PICO.LivePreview.Settings: {fileID: 11400000, guid: cab5793569bf4e047a1abfab31a2fabc, type: 2}
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: 39e9df871707f2f4e806e93ec7c4a541, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: eebafd3230af72b4785cd71665c83679, type: 2}
